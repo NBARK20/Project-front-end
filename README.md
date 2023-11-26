@@ -1,1 +1,1 @@
-"This website vevelopper by nbark kazdabi using html/css " 
+"This website devlopped by nbark kazdabi using html/css " 
